@@ -1,0 +1,5 @@
+number,sequence,stack,BF1,TF,BDC,TDC,length,BF2,TF,BDC,TDC,length,BF3,TF,BDC,TDC,length,BF4,TF,BDC,TDC,length,BF5,TF,BDC,TDC,length,BF6,TF,BDC,TDC,length,BF7,TF,BDC,TDC,length,BF8,TF,BDC,TDC,length,BF9,TF,BDC,TDC,length,BF10,TF,BDC,TDC,length
+1,comp,2,1,5,100,5,200,1,80,100,5,300,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,comp,2,1,10,100,5,200,1,80,100,5,300,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,comp,2,1,15,100,5,200,1,80,100,5,300,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,comp,2,1,32,100,5,200,1,80,100,5,300,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
